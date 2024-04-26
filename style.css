@@ -1,0 +1,41 @@
+html {
+  font-family:"poppins", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(10, 44, 75);
+}
+
+section>h2 {
+  display: block;
+  background-color: rgb(10, 44, 75);
+  width: 450px;
+  border: 2px dotted rgb(195, 195, 218);
+  color: rgb(152, 167, 203);
+  text-indent: 10px;
+  margin-left: 20px;
+}
+
+div {
+  display: inline-block;
+  background-color: rgb(232, 203, 86);
+  width: 200px;
+  height: 200px;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: rgb(119, 96, 69);
+  border: 2px solid rgb(171, 171, 194);
+}
+
+div>h3 {
+  background-color: ;
+  text-align: center;
+}
+
+img {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+}
