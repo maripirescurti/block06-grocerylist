@@ -37,5 +37,6 @@ img {
   display: inline-block;
   width: 200px;
   height: 200px;
-  padding: 20px;
+  padding: 0 20px 0 20px;
+  vertical-align:bottom;
 }
